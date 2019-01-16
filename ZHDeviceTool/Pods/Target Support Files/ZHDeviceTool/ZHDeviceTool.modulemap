@@ -1,0 +1,6 @@
+framework module ZHDeviceTool {
+  umbrella header "ZHDeviceTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

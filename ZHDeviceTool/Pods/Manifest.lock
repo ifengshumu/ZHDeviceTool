@@ -1,0 +1,16 @@
+PODS:
+  - ZHDeviceTool (1.1.0)
+
+DEPENDENCIES:
+  - ZHDeviceTool (from `../`)
+
+EXTERNAL SOURCES:
+  ZHDeviceTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHDeviceTool: 2bc54dd532f9c726c478310346342ef731185291
+
+PODFILE CHECKSUM: faf31a187fe7ba9c16a1dbb9a55df228bdf70073
+
+COCOAPODS: 1.5.3
